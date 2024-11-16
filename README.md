@@ -20,7 +20,7 @@ Para este codigo se necesita:
 
 ## generar_grafico.py
 Para el funcionamiento de este codigo se necesita:
-- los archivos "promedio_fb.txt" y "promedio_pdm.txt" subdividirlos en:
+- los archivos "promedio_fb.txt" y "promedio_pdm.txt" subdividirlos en los siguientes archivos, los que deben estar en la misma ubicacion que **generar_graficos.py**:
   - "promedio_fb_cadv.txt" y "promedio_pdm_cadv.txt", que son las primeras 10 lineas de "promedio_fb.txt" y "promedio_pdm.txt"
   - "promedio_fb_rep.txt" y "promedio_pdm_rep.txt", que son desde la linea 11 hasta la linea 19 de "promedio_fb.txt" y "promedio_pdm.txt"
   - "promedio_fb_trans.txt" y "promedio_pdm_trans.txt", que son desde la linea 20 hasta la linea 31 de "promedio_fb.txt" y "promedio_pdm.txt"
